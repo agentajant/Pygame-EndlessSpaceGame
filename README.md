@@ -6,15 +6,15 @@ Made an endless game in class 8th using pygame, for Pygame Summer Game Jam 2021
 
 
 This is a simple endless game made using **Python** and **Pygame** library, developed when I was just 11 years old (Class 7)!  
-It features a spaceship dodging astroids as their speed keeps increasing.
+It features a spaceship dodging asteroids as their speed keeps increasing.
 
--after the deadline for jam ended, I used unity to create a .apk(andriod) version for this too (on the itch page).
+-after the deadline for jam ended, I used unity to create a .apk (Android) version for this too (on the itch page).
 
 ---
 
 ## 🛠️ Features
 - Player movement (WASD / Arrow keys)
-- Random Asteroid spawning
+- Random Asteroids spawning
 - Score system
 - Collision detection
 - Increasing difficulty
@@ -26,6 +26,6 @@ It features a spaceship dodging astroids as their speed keeps increasing.
 
 = First run the Install_Import.bat file.
 
-=Then run the game.bat file to play the game.
+= Then run the game.bat file to play.
 
 
